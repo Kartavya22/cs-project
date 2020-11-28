@@ -1,0 +1,54 @@
+body{
+  background-image: url(images/im.jpg);
+  background-size: cover;
+}
+
+.navbar {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+
+.image{
+  height: 150px;
+  margin: 2%;
+  padding: 2%;
+}
+
+.message{
+  font-family: 'Courgette', cursive;
+  margin: auto;
+  padding: 2%;
+  color: #fff;
+}
+
+.jai-hind{
+  font-family: 'Kavivanar', cursive;
+  font-size: 50px;
+}
+
+.back-button{
+  margin-right: 5%;
+  text-align: right;
+}
+
+
+/*CSS for Smaller Devices , >1000px;*/
+
+@media only screen and (max-width: 1000px) {
+  .image{
+    height: 250px;
+  }
+
+  .message{
+    text-align: left;
+    margin: 3%;
+  }
+
+  .jai-hind{
+    text-align: center;
+  }
+}

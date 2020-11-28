@@ -1,0 +1,59 @@
+.navbar {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.first-btn{
+text-align: right;
+}
+
+
+.welcome-content {
+  font-family: 'Kavivanar', cursive;
+}
+
+.title {
+  font-family: 'Kavivanar', cursive;
+  text-align: center;
+  padding: 1%;
+}
+
+.first {
+  background-image: url("images/aw.jpg");
+  background-size: cover;
+  color: #fff;
+  margin: auto;
+  padding: 2.5%;
+  font-size: 1.5em;
+}
+
+.btn-group {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+footer{
+  background-color: #1a1c20 ;
+  border-top: 5px solid #e0ece4;
+  border-left: 5px solid #e0ece4;
+  border-right: 5px solid #e0ece4;
+}
+
+.contact-us{
+  font-family: 'Courgette', cursive;
+  color: #fff;
+  font-size: 18px;
+  padding: 2%;
+}
+
+.footer{
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 15px;
+  color: #fff;
+  padding: 1px;
+  margin-right:  10px;
+  margin-bottom: 10px;
+  text-align: right;
+}

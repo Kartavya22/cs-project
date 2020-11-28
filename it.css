@@ -1,0 +1,38 @@
+body{
+  background-image: url("images/ke.jpg");
+  background-size: cover;
+}
+
+.navbar {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+
+.it-department{
+color: white;
+}
+
+.title{
+  font-family: 'Kavivanar', cursive;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 1%;
+  font-size: 70px;
+}
+
+.next-line{
+  font-family: 'Kavivanar', cursive;
+  position: absolute;
+  left: 55%;
+  font-size: 50px;
+}
+
+.back-button{
+  position: absolute;
+  top:80%;
+  right: 10%;
+}
